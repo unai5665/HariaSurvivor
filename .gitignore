@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.bak
+node_modules/
+.DS_Store        # Para macOS
+Thumbs.db         # Para Windows
+.idea/
+.vscode/
+*.mp4
+*.zip
