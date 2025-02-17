@@ -12,6 +12,30 @@
 ---
 ## Interfaz
 
+### 1. **Pantalla de Inicio (StartScreen)**
+
+Esta es la pantalla principal cuando inicias el juego. Aquí podrás empezar la partida y acceder a las opciones.
+
+![StartScreen](./imagenes/startScreen.png)
+
+### 2. **Pantalla de Game Over (GameOverScreen)**
+
+Si pierdes en alguna zona o no logras eliminar a todos los zombis, serás llevado a la pantalla de Game Over.
+
+![GameOverScreen](./imagenes/gameOverScreen.png)
+
+### 3. **Pantalla del Juego (GameScreen)**
+
+Esta es la pantalla principal durante el juego, donde te enfrentas a los zombis y buscas el tesoro en cada zona.
+
+![GameScreen](./imagenes/gameScreen.png)
+
+### 4. **Pantalla de Victoria (VictoryScreen)**
+
+Cuando completes todas las zonas y consigas el tesoro, serás recibido con una pantalla de victoria.
+
+![VictoryScreen](./imagenes/victoryScreen.png)
+
 ## Instalación
 
 1. **Clona o descarga el repositorio** del juego desde GitHub.
