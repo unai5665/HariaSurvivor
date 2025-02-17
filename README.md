@@ -16,25 +16,25 @@
 
 Esta es la pantalla principal cuando inicias el juego. Aquí podrás empezar la partida y acceder a las opciones.
 
-![StartScreen](./imagenes/startScreen.png)
+![StartScreen](./images/StartScreen.png)
 
 ### 2. **Pantalla de Game Over (GameOverScreen)**
 
 Si pierdes en alguna zona o no logras eliminar a todos los zombis, serás llevado a la pantalla de Game Over.
 
-![GameOverScreen](./imagenes/gameOverScreen.png)
+![GameOverScreen](./images/gameOverScreen.png)
 
 ### 3. **Pantalla del Juego (GameScreen)**
 
 Esta es la pantalla principal durante el juego, donde te enfrentas a los zombis y buscas el tesoro en cada zona.
 
-![GameScreen](./imagenes/gameScreen.png)
+![GameScreen](./images/gameScreen.png)
 
 ### 4. **Pantalla de Victoria (VictoryScreen)**
 
 Cuando completes todas las zonas y consigas el tesoro, serás recibido con una pantalla de victoria.
 
-![VictoryScreen](./imagenes/victoryScreen.png)
+![VictoryScreen](./images/victoryScreen.png)
 
 ## Instalación
 
