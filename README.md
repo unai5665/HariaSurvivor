@@ -16,7 +16,7 @@
 
 Esta es la pantalla principal cuando inicias el juego. Aquí podrás empezar la partida y acceder a las opciones.
 
-![StartScreen](./images/StartScreen.PNG)
+![StartScreen](./images/startScreen.PNG)
 
 ### 2. **Pantalla de Game Over (GameOverScreen)**
 
